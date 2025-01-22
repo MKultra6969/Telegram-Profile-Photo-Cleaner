@@ -108,7 +108,7 @@ def show_info():
 
 
 def main_menu():
-    ascii_logo = pyfiglet.figlet_format("P P C", font="cosmic")
+    ascii_logo = pyfiglet.figlet_format("T P P C", font="cosmic")
     print(Fore.CYAN + Style.BRIGHT + ascii_logo + Style.RESET_ALL)
     print(Fore.MAGENTA + Style.BRIGHT + "by MKultra69" + Style.RESET_ALL)
 
